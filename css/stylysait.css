@@ -1,0 +1,26 @@
+#mysait{
+	width:900px
+	outline:20px inset #cceeff;
+}
+
+#head{
+	width:900px
+	outline:20px inset #cceeff;
+}
+
+#menu{
+	width:440px
+	outline:20px inset #cceeff;
+}
+
+#contect{
+	width:440px;
+    height: 150px;
+	outline:20px inset #cceeff;
+}
+
+#footer{
+	width:440px
+	height: 150px
+	outline:20px inset #cceeff;
+}

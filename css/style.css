@@ -1,0 +1,57 @@
+#mysait{
+	width:900px;
+	outline:20px inset #cceeff;
+}
+
+#head{
+	width:900px;
+	height: 80px;
+	outline:20px inset #cceeff;
+}
+
+#menu{
+	width:200px;
+	height: 400px;
+	outline:20px inset #cceeff;
+}
+
+#contect{
+	width: 500px;
+    height: 400px;
+	outline: 20px inset #cceeff;
+}
+#ygv{width: 200px;
+     height: 400px;
+     outline: 20px inset #cceeff;
+}
+
+#footer{
+	width:900px;
+	height: 400px;
+	outline:3px inset #cceeff;
+}
+body{
+	background-color: #2EFEF7;
+}
+li:hover{color: #ff0000;
+}
+img{
+	position: relative;
+}
+video{width: 200px;
+      height: 300px;
+      outline: 5px;
+}
+ul{
+	list-style: none;
+	margin: 0 auto;
+	padding-left: 0;
+
+}
+a {text-decoration: none;
+   padding: 1em;
+   border-right: 1px solid #000000;
+
+}
+li{display: inline;}
+a:hover {background: #0000ff}
